@@ -15,3 +15,4 @@ let age = 25;
 console.log("My name is", name);
 console.log("I am", age, "years old");
 console.log(`Hello ${name}, you are ${age} years old!`);
+// Test 123
